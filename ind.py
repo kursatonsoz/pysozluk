@@ -3,7 +3,7 @@
 
 import pynotify
 import os
-pynotify.init('PySozluk')
+pynotify.init('PySozluk-V1.0')
 file = open("kelime.txt","r")
 
 for kel in file:
